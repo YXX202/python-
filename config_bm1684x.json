@@ -69,7 +69,7 @@
   },
   "output": {
     "video_output_dir": "alarm_videos",
-    "display_port": 5001,
+    "display_port": 5010,
     "font_path": "simhei.ttf",
     "hls_output_dir": "hls_output",
     "hls_time": 1,
